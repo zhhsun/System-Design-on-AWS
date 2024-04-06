@@ -23,7 +23,13 @@ Chinese version for System Design on AWS
 
 第9章 AWS网络服务(可用)
 
-第10章 AWS存储服务(可用)
+[第10章 AWS存储服务(可用)](./PART02/CH07/ch07.md)
+
+- [AWS上的云存储](./PART02/CH07/ch07.md#aws上的云存储)
+
+  - [Amazon弹性块存储](./PART02/CH07/ch07.md#amazon弹性块存储ebs)
+
+  - [Amazon弹性文件存储（EFS）](./PART02/CH07/ch07.md#amazon弹性文件存储efs)
 
 第11章 AWS计算服务(可用)
 
