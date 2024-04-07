@@ -44,7 +44,7 @@ Chinese version for System Design on AWS
   - [Amazon Keyspaces](./PART02/CH10/ch10.md#amazon-keyspaces)
 - [结论](./PART02/CH10/ch10.md#结论)
 
-第11章 AWS计算服务(可用)
+[第11章 AWS计算服务(可用)](./PART02/CH11/ch11.md#第十一章-aws计算服务)
 
 - [Amazon弹性计算云](./PART02/CH11/ch11.md#amazon弹性计算云)
   - [Amazon机器镜像](./PART02/CH11/ch11.md#amazon机器镜像)
