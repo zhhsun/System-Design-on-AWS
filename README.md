@@ -26,14 +26,12 @@ Chinese version for System Design on AWS
 [第10章 AWS存储服务(可用)](./PART02/CH07/ch07.md)
 
 - [AWS上的云存储](./PART02/CH07/ch07.md#aws上的云存储)
-
   - [Amazon弹性块存储](./PART02/CH07/ch07.md#amazon弹性块存储ebs)
-
   - [Amazon弹性文件存储（EFS）](./PART02/CH07/ch07.md#amazon弹性文件存储efs)
 
 第11章 AWS计算服务(可用)
 
-- [Amazon弹性计算云](./part02/ch11/ch11.md#amazon弹性计算云)
+- [Amazon弹性计算云](./PART02/CH11/ch11.md#amazon弹性计算云)
   - [Amazon机器镜像](./part02/ch11/ch11.md#amazon机器镜像)
   - [实例类型](./part02/ch11/ch11.md#实例类型)
 - [AWS Lambda](./part02/ch11/ch11.md#aws-lambda)
