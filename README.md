@@ -25,9 +25,24 @@ Chinese version for System Design on AWS
 
 [第10章 AWS存储服务(可用)](./PART02/CH07/ch07.md)
 
-- [AWS上的云存储](./PART02/CH07/ch07.md#aws上的云存储)
-  - [Amazon弹性块存储](./PART02/CH07/ch07.md#amazon弹性块存储ebs)
-  - [Amazon弹性文件存储（EFS）](./PART02/CH07/ch07.md#amazon弹性文件存储efs)
+- [AWS上的云存储](./PART02/CH10/ch10.md#aws上的云存储)
+  - [Amazon弹性块存储（EBS）](./PART02/CH10/ch10.md#amazon弹性块存储ebs)
+  - [Amazon弹性文件存储（EFS）](./PART02/CH10/ch10.md#amazon弹性文件存储efs)
+  - [Amazon FSx](./PART02/CH10/ch10.md#amazon-fsx)
+  - [Amazon简单存储服务（S3）](./PART02/CH10/ch10.md#amazon简单存储服务s3)
+    - [Amazon S3存储类](./PART02/CH10/ch10.md#amazon-s3存储类)
+    - [Amazon S3数据安全](./PART02/CH10/ch10.md#amazon-s3数据安全)
+- [AWS数据库](./PART02/CH10/ch10.md#aws数据库)
+  - [Amazon RDS](./PART02/CH10/ch10.md#amazon-rds)
+    - [Amazon Aurora](./PART02/CH10/ch10.md#amazon-aurora)
+    - [Amazon DynamoDB](./PART02/CH10/ch10.md#amazon-dynamodb)
+    - [Amazon DocumentDB](./PART02/CH10/ch10.md#amazon-documentdb)
+  - [Amazon Neptune](./PART02/CH10/ch10.md#amazon-neptune)
+  - [Amazon ElasticCache](./PART02/CH10/ch10.md#amazon-elasticcache)
+  - [Amazon Opensearch](./PART02/CH10/ch10.md#amazon-opensearch)
+  - [Amazon Timestream](./PART02/CH10/ch10.md#amazon-timestream)
+  - [Amazon Keyspaces](./PART02/CH10/ch10.md#amazon-keyspaces)
+- [结论](./PART02/CH10/ch10.md#结论)
 
 第11章 AWS计算服务(可用)
 
