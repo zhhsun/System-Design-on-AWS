@@ -33,6 +33,13 @@ Chinese version for System Design on AWS
 
 第11章 AWS计算服务(可用)
 
+- [Amazon弹性计算云](./part02/ch11/ch11.md#amazon弹性计算云)
+  - [Amazon机器镜像](./part02/ch11/ch11.md#amazon机器镜像)
+  - [实例类型](./part02/ch11/ch11.md#实例类型)
+- [AWS Lambda](./part02/ch11/ch11.md#aws-lambda)
+- [容器化服务](./part02/ch11/ch11.md#容器化服务)
+- [结论](./part02/ch11/ch11.md#结论)
+
 第12章 AWS业务流程服务(可用)
 
 第13章 AWS大数据、分析和机器学习服务(可用)
