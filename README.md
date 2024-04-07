@@ -34,8 +34,11 @@ Chinese version for System Design on AWS
 - [Amazon弹性计算云](./PART02/CH11/ch11.md#amazon弹性计算云)
   - [Amazon机器镜像](./PART02/CH11/ch11.md#amazon机器镜像)
   - [实例类型](./PART02/CH11/ch11.md#实例类型)
+  - [自动伸缩](./PART02/CH11/ch11.md#自动伸缩)
 - [AWS Lambda](./PART02/CH11/ch11.md#aws-lambda)
 - [容器化服务](./PART02/CH11/ch11.md#容器化服务)
+  - [Amazon弹性容器服务](./PART02/CH11/ch11.md#amazon弹性容器服务)
+  - [Amazon弹性Kubernetes服务](./PART02/CH11/ch11.md#amazon弹性kubernetes服务)
 - [结论](./PART02/CH11/ch11.md#结论)
 
 第12章 AWS业务流程服务(可用)
