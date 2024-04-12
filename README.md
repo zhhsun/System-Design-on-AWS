@@ -44,7 +44,7 @@ Chinese version for System Design on AWS
     - [Amazon弹性容器服务](./PART02/CH11/ch11.md#amazon弹性容器服务)
     - [Amazon弹性Kubernetes服务](./PART02/CH11/ch11.md#amazon弹性kubernetes服务)
   - [结论](./PART02/CH11/ch11.md#结论)
-- [第12章 AWS业务流程服务(可用)](./PART02/CH12/ch12.md#第12章-aws业务流程服务)
+- [第12章 AWS编排服务(可用)](./PART02/CH12/ch12.md#第12章-aws编排服务)
 - [第13章 AWS大数据、分析和机器学习服务(可用)](./PART02/CH13/ch13.md#第13章-aws大数据分析和机器学习服务)
 
 [第三部分 系统设计用例](./PART03/part03.md#第3部分-系统设计用例)
